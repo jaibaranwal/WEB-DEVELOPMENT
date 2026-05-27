@@ -12,7 +12,8 @@ let age  = 18
 let isloggedIn = false
 let state;
 
-//PREMITIVE  DATA. TYPES
+ 
+//PREMITIVE  DATA TYPES
 // number  => 2 to power 53
 // bigint 
 // string => ""
